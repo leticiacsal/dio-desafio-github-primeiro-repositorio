@@ -1,0 +1,24 @@
+Aulas sobre Git/GitHub
+
+[ Download do Git ]  ( https://git-scm.com/download/win )
+
+Sha1 - algoritmo de criptação - conjunto de caracters identificador com 40 digitos.
+
+Tree - as árvores - armazenam blobs
+
+Commit - é obejto que vai juntar e dar sentido para as alterações que estão sendo feitas.
+
+
+
+###  primeiros comandos com o git 
+
+Git init - Git add- Git commit
+
+
+
+
+
+
+
+
+
